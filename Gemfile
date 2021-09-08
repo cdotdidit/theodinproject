@@ -52,7 +52,7 @@ end
 
 group :development do
   gem 'web-console',                       '~> 3.4'
-  gem 'better_errors',                     '~> 2.4'
+  gem 'better_errors',                     '~> 2.8'
   gem 'binding_of_caller',                 '~> 0.8'
   gem 'letter_opener',                     '~> 1.4'
   gem 'derailed'
